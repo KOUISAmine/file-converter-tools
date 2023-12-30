@@ -1,2 +1,40 @@
-# file-converter-tools
-A collection of file conversion tools to convert word, excel, powerpoint, csv, and more... Free &amp; No installation.
+# File Converter Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>A collection of file conversion tools to convert word, excel, powerpoint, csv, and more... Free &amp; No installation.
+
+## Contents
+
+* [Word to PDF Tool](https://tools.waytolearnx.com/word-to-pdf)
+* [Word to HTML Tool](https://tools.waytolearnx.com/word-to-html)
+* [Word to EPUB Tool](https://tools.waytolearnx.com/word-to-epub)
+* [Word to ODT Tool](https://tools.waytolearnx.com/word-to-odt)
+* [Word to TXT Tool](https://tools.waytolearnx.com/word-to-txt)
+* [Word to XML Tool](https://tools.waytolearnx.com/word-to-xml)
+* [Excel(XLS) to Excel(XLSX) Tool](https://tools.waytolearnx.com/xls-to-xlsx)
+* [Excel(XLSX) to Excel(XLS) Tool](https://tools.waytolearnx.com/xlsx-to-xls)
+* [Excel(XLSX) to ODS Tool](https://tools.waytolearnx.com/xlsx-to-ods)
+* [Excel(XLSX) to CSV Tool](https://tools.waytolearnx.com/xlsx-to-csv)
+* [Excel(XLSX) to PDF Tool](https://tools.waytolearnx.com/xlsx-to-pdf)
+* [Excel(XLSX) to HTML Tool](https://tools.waytolearnx.com/xlsx-to-html)
+* [Excel(XLSX) to TSV Tool](https://tools.waytolearnx.com/xlsx-to-tsv)
+* [Excel(XLSX) to TXT Tool](https://tools.waytolearnx.com/xlsx-to-txt)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
